@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Core\\Install\\": "install/"
+            "Core\\Install\\": "install/src/"
         }
     },
     "minimum-stability": "dev"
