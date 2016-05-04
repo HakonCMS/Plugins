@@ -22,11 +22,10 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "efuzyon/tools": "1.0.*",
+        "php": ">=5.5.9"
     },
     "autoload": {
-
+        
     },
     "minimum-stability": "dev"
 }
