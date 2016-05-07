@@ -1,5 +1,7 @@
 {{ Html::Hook("Core::Admin::Template::Menu::Item::Before", "dashboard") }}
-<li>
-    <a href="{{ URL::Route('hakon::dashboard') }}" class="waves-effect active"><i class="ti-home"></i> <span> Dashboard </span> </a>
+<li class="active treeview">
+    <a href="{{ URL::Route('hakon::dashboard') }}">
+        <i class="fa fa-dashboard"></i> <span>Dashboard</span></i>
+    </a>
 </li>
 {{ Html::Hook("Core::Admin::Template::Menu::Item::After", "dashboard") }}
