@@ -54,9 +54,9 @@
                             <div class="box-body">
 
                                 <div class="form-group">
-                                    <label for="user_name" class="col-sm-1 control-label">Username</label>
+                                    <label for="user_name" class="col-sm-1 control-label">Name</label>
                                     <div class="col-sm-11">
-                                        <input type="text" class="form-control" id="user_name" name="user_name" placeholder="hakoncms">
+                                        <input type="text" class="form-control" id="user_name" name="user_name" placeholder="Kevin Smith">
                                     </div>
                                 </div>
 
